@@ -89,5 +89,10 @@ A boy from my class is repeatedly texting me from multiple social media accounts
 This project is intended for **educational and informational purposes only**.  
 It does **not** provide professional legal advice.
 
+---
+
+Bot link🔗
+https://t.me/IPC_legal_bot
+
 
 
